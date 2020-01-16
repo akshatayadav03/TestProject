@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044482323556",
+    "firebase_url": "https://videoappnew-8bc99.firebaseio.com",
+    "project_id": "videoappnew-8bc99",
+    "storage_bucket": "videoappnew-8bc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044482323556:android:c4d86f1ac52e1f04",
+        "android_client_info": {
+          "package_name": "com.example.akshata.videoappnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044482323556-ocqqq1il0l9lt9m8el3jsmfebpfto9o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshata.videoappnew",
+            "certificate_hash": "44d73f37fad00e61be3b82694506cd17ef461ee3"
+          }
+        },
+        {
+          "client_id": "1044482323556-kf2pkadhot61vt3m047bdee8o02f0eq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98gbSc9aEmvc2HOW0s8a-q6Hyqq32rak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044482323556-kf2pkadhot61vt3m047bdee8o02f0eq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

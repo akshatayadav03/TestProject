@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VideoAppNew</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_login_in">Log In</string>
+    <string name="btn_register">Register</string>
+    <string name="login_forgot_password">Forgot Password ?</string>
+    <string name="register_text">Already Having an Account?</string>
+    <string name="login_text">Not Having an Account?</string>
+    <string name="book_name_text">Book Name</string>
+    <string name="book_class_text">Class</string>
+    <string name="book_subject_text">Subject</string>
+    <string name="author_name_text">Author Name</string>
+    <string name="price_text">Price</string>
+</resources>
